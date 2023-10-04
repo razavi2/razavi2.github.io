@@ -3,15 +3,14 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+We are a group of Spatial Engineering students from the University of Twente working on a project about Food and Water Security in Iran. This project is an important part of our Spatial Engineering program. Finding ways to give everyone enough food and water in a sustainable way is a big challenge. Many things, like diseases, fights between countries, changing weather, natural disasters, and climate change, make it harder for people to get the food and water they need. We want to help people be ready for these challenges and find ways to do well even when things are tough.
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+Our focus is on Golbahar City and the villages around it. We are looking at problems with how water is used and managed there. We suggest using Qanats, which is a traditional way to manage water in the area. This system can help with the water problem and also means a lot to the people there because it's part of their culture and history.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+Our team consists of:
+1. **Azzadiva Sawungrana** as Project Manager
+2. **Mujtaba Qasim** as Geospatial Data Analyst
+3. **Luc Meulenbroek** as Technical Research & Solutions Engineer
+4. **Lisemijn Presser** as Socio-Cultural & Economic Analyst
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+For collaborations, inquiries, or additional information, please reach out to us at: azzadivaraviasawungrana@student.utwente.nl.
