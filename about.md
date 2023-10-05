@@ -31,5 +31,6 @@ For collaborations, inquiries, or additional information, please reach out to us
 مجتبی قاسم به عنوان تحلیل‌گر داده‌های فضایی
 لوک مولنبروک به عنوان مهندس تحقیق و راه‌حل‌های فنی
 لیسمین پرسر به عنوان تحلیل‌گر اجتماعی-فرهنگی و اقتصادی
+
 برای همکاری، استعلامات یا اطلاعات بیشتر، لطفاً با
 azzadivaraviasawungrana@student.utwente.nl
